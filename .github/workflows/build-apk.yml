@@ -28,7 +28,7 @@ jobs:
         with:
           distribution: temurin
           java-version: '21'
-          cache: npm
+          
 
       - name: Show versions
         run: |
